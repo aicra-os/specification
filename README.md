@@ -1,5 +1,9 @@
 # AICRA Açık Standardı - Spesifikasyon
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aicra-os/.github/main/assets/aicra-logo.svg" alt="AICRA-OS Logo" width="200">
+</p>
+
 Bu depo, insan geliştiriciler ve yapay zeka ajanları arasında sorunsuz işbirliği için evrensel bir standart olan **AICRA (AI-Contextual Repository Architecture)** projesinin resmi teknik spesifikasyonunu içerir.
 
 ---
